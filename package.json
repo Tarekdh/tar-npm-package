@@ -1,0 +1,11 @@
+{
+  "name": "test-publish-package",
+  "version": "1.0.0",
+  "description": "this package is a simple example on how to publish npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Tarek Khachnaoui",
+  "license": "ISC"
+}
